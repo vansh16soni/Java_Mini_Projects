@@ -1,4 +1,4 @@
-package java.library;
+package miniProject.library;
 
 // 2. SUBCLASS: Book
 // Demonstrates Inheritance & Overriding

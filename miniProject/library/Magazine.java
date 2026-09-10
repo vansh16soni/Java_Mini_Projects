@@ -1,4 +1,4 @@
-package java.library;
+package miniProject.library;
 // 3. SUBCLASS: Magazine
 
 class Magazine extends LibraryItem {

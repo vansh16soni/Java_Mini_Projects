@@ -1,4 +1,4 @@
-package java.library;
+package miniProject.library;
 
 class LibraryItem {
     // Encapsulation: fields are private to prevent unauthorized modification

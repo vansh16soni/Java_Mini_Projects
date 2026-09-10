@@ -1,4 +1,4 @@
-package java.library;
+package miniProject.library;
 
 import java.util.Scanner;
 
